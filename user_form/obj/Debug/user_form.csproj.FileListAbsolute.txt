@@ -1,0 +1,10 @@
+C:\Users\Students\Desktop\C#\user_form\user_form\bin\Debug\user_form.exe.config
+C:\Users\Students\Desktop\C#\user_form\user_form\bin\Debug\user_form.exe
+C:\Users\Students\Desktop\C#\user_form\user_form\bin\Debug\user_form.pdb
+C:\Users\Students\Desktop\C#\user_form\user_form\obj\Debug\user_form.csproj.AssemblyReference.cache
+C:\Users\Students\Desktop\C#\user_form\user_form\obj\Debug\user_form.Form1.resources
+C:\Users\Students\Desktop\C#\user_form\user_form\obj\Debug\user_form.Properties.Resources.resources
+C:\Users\Students\Desktop\C#\user_form\user_form\obj\Debug\user_form.csproj.GenerateResource.cache
+C:\Users\Students\Desktop\C#\user_form\user_form\obj\Debug\user_form.csproj.CoreCompileInputs.cache
+C:\Users\Students\Desktop\C#\user_form\user_form\obj\Debug\user_form.exe
+C:\Users\Students\Desktop\C#\user_form\user_form\obj\Debug\user_form.pdb
